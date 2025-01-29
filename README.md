@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @crzyktryn
 - 👀 I’m interested in cosplaying and coding
-- 🌱 I’m currently an IT Student
-- 😄 Pronouns: She or They
+- 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: I'm obssess to manhwa
 
 <!---
